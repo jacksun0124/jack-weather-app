@@ -2,7 +2,8 @@
 
 Jack_weather_app Flutter project.
 
-## Getting Started
+## APP Screen Shot
+https://github.com/jacksun0124/jack-weather-app/blob/master/weather_app.png
 
 ## Packages used in this project
 
